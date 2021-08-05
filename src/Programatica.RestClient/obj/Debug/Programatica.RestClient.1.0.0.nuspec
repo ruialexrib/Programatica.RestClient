@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Programatica.RestClient</id>
+    <version>1.0.0</version>
+    <authors>ruialexrib</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/ruialexrib/Programatica.RestClient</projectUrl>
+    <description>Simple rest client</description>
+    <copyright>Copyright ©  Programatica Software 2021</copyright>
+    <tags>rest csharp</tags>
+    <repository url="https://github.com/ruialexrib/Programatica.RestClient" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\bin\Debug\net461\Programatica.RestClient.dll" target="lib\net461\Programatica.RestClient.dll" />
+    <file src="C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\bin\Debug\net5.0\Programatica.RestClient.dll" target="lib\net5.0\Programatica.RestClient.dll" />
+  </files>
+</package>

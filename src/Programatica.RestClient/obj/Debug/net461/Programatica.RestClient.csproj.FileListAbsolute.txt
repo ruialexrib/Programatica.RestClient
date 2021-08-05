@@ -1,0 +1,8 @@
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\bin\Debug\net461\Programatica.RestClient.dll
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\bin\Debug\net461\Programatica.RestClient.pdb
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.AssemblyInfoInputs.cache
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.AssemblyInfo.cs
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.csproj.CoreCompileInputs.cache
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.dll
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.pdb
+C:\Users\ruial\Documents\GitHub\Programatica.RestClient\src\Programatica.RestClient\obj\Debug\net461\Programatica.RestClient.csproj.AssemblyReference.cache

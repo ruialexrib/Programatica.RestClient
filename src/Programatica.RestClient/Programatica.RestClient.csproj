@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;net5.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>ruialexrib</Authors>
+    <Company>Programatica Software</Company>
+    <Description>Simple rest client</Description>
+    <Copyright>Copyright ©  Programatica Software 2021</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/ruialexrib/Programatica.RestClient</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ruialexrib/Programatica.RestClient</RepositoryUrl>
+    <PackageTags>rest csharp</PackageTags>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
